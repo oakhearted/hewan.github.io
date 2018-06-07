@@ -1,6 +1,6 @@
 <?php
 /**
- * The homepage for the site. 
+ * The terms and conditions page. 
  *
  * This file is part of 'Kitto_Kitto_Kitto'.
  *
@@ -29,5 +29,5 @@
  * @version 1.0.0
  **/
 
-$renderer->display('meta/home.tpl');
+$renderer->display('meta/terms.tpl');
 ?>
